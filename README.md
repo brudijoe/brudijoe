@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @brudijoe.
 - 👀 I’m interested in frontend and backend.
+- 🌱 I'm currently interested in Docker.
 - 🌱 I’m currently doing challenges on https://www.codewars.com/users/brudijoe
 - 📫 How to reach me: Ingo.Speckens@gmail.com
 
