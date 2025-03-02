@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brudijoe.
-- 👀 I’m interested in react native.
+- 👀 I’m interested in react native and expo.
 - 📫 How to reach me: Ingo.Speckens@gmail.com
 
 <!---
