@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @brudijoe.
-- 👀 I’m interested in react native and expo.
-- 📫 How to reach me: Ingo.Speckens@gmail.com
+- Hi, I’m @brudijoe.
+- I’m interested in react native and expo.
+- Currently learning c++
+- How to reach me: Ingo.Speckens@gmail.com
 
 <!---
 brudijoe/brudijoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
