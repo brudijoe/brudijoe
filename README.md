@@ -1,6 +1,6 @@
 - Hi, I’m @brudijoe.
 - I’m interested in react native and expo.
-- Currently learning c++
+- Currently learning c++, devops.
 - How to reach me: Ingo.Speckens@gmail.com
 
 <!---
